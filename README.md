@@ -6,6 +6,3 @@ Through these projects, I aim to demonstrate my skills in connecting to various 
 
 I hope you find my work helpful for your own projects and data analysis journey. If you have any questions or need support, feel free to reach out!
 
-LinkedIn: [Shreyash Supe](https://www.linkedin.com/in/shreyashsupe/)
-
-Email: [shreyashsupe11@gmail.com](mailto:shreyashsupe11@gmail.com)
